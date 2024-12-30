@@ -1,0 +1,22 @@
+{
+    "instances": [
+        {
+            "name": "Instance 1",
+            "base_url": "https://coltenkjnew-temp14-atom.orangehrm.com",
+            "client_id": "test_api_user_colten",
+            "client_secret": "b2faef868b45e679d2f31e72b1094cfc",
+            "grant_type": "password",
+            "username": "_ohrmSysAdmin_",
+            "password": "admin"
+        },
+        {
+            "name": "Instance 2",
+            "base_url": "https://coltenkjb3-temp14-atom.orangehrm.com",
+            "client_id": "test_api_user_colten",
+            "client_secret": "e03e353c5539517c4df1cf9466f2f63e",
+            "grant_type": "password",
+            "username": "_ohrmSysAdmin_",
+            "password": "admin"
+        }
+    ]
+}
