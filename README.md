@@ -75,7 +75,7 @@ Pip (for managing dependencies)
    **Run the application:**
 
     ```bash
-    python src/main.py
+    python3 src/main.py
 
 7. Outputs generated:
 
