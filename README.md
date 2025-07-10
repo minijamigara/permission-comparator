@@ -1,4 +1,4 @@
-# performance-comparator
+# permission-comparator
 
 ## Description
 
